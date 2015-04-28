@@ -1,0 +1,60 @@
+Category 0
+----------------------
+kumar	indian	white	cowboys	love	hum	movie	punjabi	ki
+======================
+Category 1
+----------------------
+martin	pagla	yamla	slapstick	deewana	laugh	films	typical	toilet
+======================
+Category 2
+----------------------
+movie	paresh	rawal	om	father	puri	milkha	3	loud
+======================
+Category 3
+----------------------
+action	rukh	shah	katniss	khan	war	belfort	john	gippi
+======================
+Category 4
+----------------------
+animation	3d	adults	children	gru	movie	horse	po	movies
+======================
+Category 5
+----------------------
+action	spirit	possessed	dabba	knight	mussaddi	bond	hoover	tia
+======================
+Category 6
+----------------------
+movie	vinay	women	didn	pathak	kapoor	raj	action	interesting
+======================
+Category 7
+----------------------
+bourne	11	police	cia	annabelle	emblem	aquila	conversation	action
+======================
+Category 8
+----------------------
+ackroyd	12	roger	series	poirot	murder	riddle	monroe	nolan
+======================
+Category 9
+----------------------
+camera	plot	horror	woman	style	love	amen	hour	children
+======================
+Category 10
+----------------------
+kay	marathi	hari	journey	streep	thatcher	mumbai	malegaon	holmes
+======================
+Category 11
+----------------------
+dharam	kashmir	common	situation	guna	paan	lakshmi	chintoo	mein
+======================
+Category 12
+----------------------
+eega	ha	reviewed	harish	telugu	dubbed	kuku	city	version
+======================
+Category 13
+----------------------
+birnam	horror	conjuring	michael	killer	wilder	dodd	mccall	man
+======================
+Category 14
+----------------------
+abortion	soundtrack	raunak	kutcher	khandelwal	rajeev	rising	amelie	meeting
+======================
